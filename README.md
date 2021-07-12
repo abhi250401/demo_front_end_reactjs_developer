@@ -14,9 +14,8 @@ public and src files are the one which are used to make the dashhboard.
 
 2. This is the sign up page which is to be used for logging in to the newss feed page currently both are spearate but i m working on integrating both of them.
 
+![Screenshot (50)](https://user-images.githubusercontent.com/56989605/125351250-7e0b0280-e37d-11eb-8d74-ae2e6d56cb35.png)
 
-![Screenshot (46)](https://user-images.githubusercontent.com/56989605/125342035-f53a9980-e371-11eb-8c30-55559ae4285f.png)
-![Screenshot (49)](https://user-images.githubusercontent.com/56989605/125342950-223b7c00-e373-11eb-954e-39e48b9c622f.png)
 
 
 
